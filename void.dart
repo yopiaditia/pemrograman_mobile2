@@ -1,7 +1,6 @@
 void main() {
 
-greetUser('Alice'); // Function with no
-return value
+greetUser('Alice'); // Function with no return value
 
 }
 
