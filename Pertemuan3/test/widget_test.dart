@@ -8,8 +8,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:pertemuan3_flutter/main.dart';
-import 'package:pertemuan3_flutter/oldmain.dart';
+// ignore: depend_on_referenced_packages
+import 'package:pertemuan3/main.dart';
+import 'package:pertemuan3/oldmain.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
